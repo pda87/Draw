@@ -1,5 +1,5 @@
-c:\users\petedarden\documents\visual studio 2013\Projects\Draw\Draw\bin\Release\Draw.exe.config
-c:\users\petedarden\documents\visual studio 2013\Projects\Draw\Draw\bin\Release\Draw.exe
-c:\users\petedarden\documents\visual studio 2013\Projects\Draw\Draw\bin\Release\Draw.pdb
-c:\users\petedarden\documents\visual studio 2013\Projects\Draw\Draw\obj\Release\Draw.exe
-c:\users\petedarden\documents\visual studio 2013\Projects\Draw\Draw\obj\Release\Draw.pdb
+C:\Users\petedarden\documents\visual studio 2013\Projects\Draw\Draw\bin\Release\Draw.exe.config
+C:\Users\petedarden\documents\visual studio 2013\Projects\Draw\Draw\bin\Release\Draw.exe
+C:\Users\petedarden\documents\visual studio 2013\Projects\Draw\Draw\bin\Release\Draw.pdb
+C:\Users\petedarden\documents\visual studio 2013\Projects\Draw\Draw\obj\Release\Draw.exe
+C:\Users\petedarden\documents\visual studio 2013\Projects\Draw\Draw\obj\Release\Draw.pdb
